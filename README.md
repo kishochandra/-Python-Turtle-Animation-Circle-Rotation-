@@ -15,6 +15,8 @@ To customize the animation, you can modify the animate() function in the circle_
 # -License
 "Python Turtle Animation: Circle Rotation" is licensed under the MIT license. See LICENSE for more information.
 
+o
+
 
 
 
